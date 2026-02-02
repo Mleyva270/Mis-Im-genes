@@ -1,2 +1,2 @@
-# Mis-Im-genes
+# Mis-Imagenes
 Imágenes para mis proyectos
